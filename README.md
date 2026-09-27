@@ -204,4 +204,4 @@ Fotoprix PhotoBook is offered as a **full free version** with all features and u
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-26 23:18:44 UTC
+**Last updated:** 2026-09-27 03:03:20 UTC
